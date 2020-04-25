@@ -5,10 +5,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Aliloya Messaging Platform</title>
+	<title>MASA  Messaging Platform</title>
 </head>
 <body>
-	<h1>Aliloya Messaging Application</h1>
+	<h1>MASA Messaging Application</h1>
 
 <?php
 	session_start();
